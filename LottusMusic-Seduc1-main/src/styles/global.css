@@ -1,0 +1,27 @@
+/* ----- RESET ----- */
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-primary: #9B287B;
+    --color-dark: #000000;
+    --color-light: #FFFFFF;
+    --color-LottusDusk: #402039;
+    --color-LottusNight: #170F11;
+    --color-LottusBerry: #5C164E;
+    --color-LottusMist: #E2FCEF;
+
+    --font-size-h1: 64px;
+    --font-size-h2: 50px;
+    --font-size-h3: 40px;
+    --font-size-h4: 35px;
+    --font-size-h5: 30px;
+    --font-size-h6: 25px;
+    --font-size-body: 18px;
+    --font-size-button: 18px;
+    --font-size-caption: 14px;
+}
